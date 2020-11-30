@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "mybank"
+  "defaultProject": "mybank",
+  "cli": {
+    "analytics": "2e057d98-45ec-40e6-9b2c-57ff95590b57"
+  }
 }
